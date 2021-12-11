@@ -1,0 +1,23 @@
+
+.contenedor{
+    padding: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
+th,
+td{
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
+h4{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+h5{
+    padding-top: 20px;
+}
