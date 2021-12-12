@@ -1,4 +1,4 @@
-*IMPORTANTE*: Asegurarse que los documentos txt no tengan doble espacios ni tengan espacios al final de cada documento (fila).
+**IMPORTANTE**: Asegurarse que los documentos txt no tengan doble espacios ni tengan espacios al final de cada documento (fila).
 
 # Descripción del código desarrollado.
 
