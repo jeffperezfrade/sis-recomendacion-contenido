@@ -35,7 +35,7 @@ Dentro del archivo `main.js` podemos observar varias funciones, entre ellas enco
 
 `termFound(doc, term)` devuelve un booleano indicando si un elemento se ha encontrado en un documento o no.
 
-## Funciones de cálculo de TF IDF.
+## Funciones de cálculo de TF & IDF.
 
 `inverseDocumentFrequecy(matrizVal, term)` devuelve el IDF de un término pasado por parametro.
 
