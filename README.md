@@ -1,3 +1,5 @@
+*IMPORTANTE*: Asegurarse que los documentos txt no tengan doble espacios ni tengan espacios al final de cada documento (fila).
+
 # Descripción del código desarrollado.
 
 El código está desarrollado con JavaScript, HTML y CSS, se ha optado por escribir HTML de forma dinámica en el archivo JavaScript.
